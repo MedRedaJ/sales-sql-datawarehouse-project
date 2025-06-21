@@ -1,3 +1,17 @@
+/*
+================================================================================
+Create Tables for the bronze layer
+================================================================================
+Script Purpose:
+	This script creates a new tables from the datasource for the bronze layer of the pipeline.
+
+WARNING:
+	Running this script will drop the tables if they exist.
+	All data in the database will be permanently deleted. Proceed with caution and ensure
+	you have proper backups before running this script.
+*/
+
+
 IF OBJECT_ID ('bronze.crm_prd_info', 'U') IS NOT NULL
 	DROP TABLE bronze.crm_prd_info;
 CREATE TABLE  bronze.crm_prd_info (
