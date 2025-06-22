@@ -1,12 +1,12 @@
 /*
 ================================================================================
-Bulki Loading Data into bronze layer table
+Bulk Loading Data into Bronze Layer Table
 ================================================================================
 Script Purpose:
-	This script loads data into the bronze layer table from the source csv files
+	This script loads data into the bronze layer table from the source CSV files
 
 WARNING:
-	Running this script removes all the data from the tables and uploads new data from the data source csv files
+	Running this script removes all the data from the tables and uploads new data from the data source CSV files
 */
 
 
