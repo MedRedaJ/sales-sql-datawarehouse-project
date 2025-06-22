@@ -7,6 +7,7 @@ Script Purpose:
 
 WARNING:
 	Running this script removes all the data from the tables and uploads new data from the data source CSV files
+================================================================================
 */
 
 
