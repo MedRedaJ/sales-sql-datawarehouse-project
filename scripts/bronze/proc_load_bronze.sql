@@ -11,10 +11,11 @@ Script Purpose:
 
 Parameters:
 	None.
-	This stored procedure does not accept any parameters not returns any values
+	This stored procedure does not accept any parameters nor return any values
 
 Usage Example:
 	EXEC bronze.load_bronze
+================================================================================
 */
 
 CREATE or ALTER PROCEDURE bronze.load_bronze AS
