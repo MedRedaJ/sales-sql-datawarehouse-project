@@ -5,11 +5,16 @@ Stored Procedure: Bronze Layer Load (Source -> Bronze)
 Script Purpose:
 	This script serves as a stored procedure to load the bronze layer of the data. It extracts the data from the CSV datasource files and
 	loads them into their respective tables. Note that the data is truncated, so the tables are wiped, and then data from the sources is loaded.
-	
+	It performs the following actions:
+	- Truncates the bronze tables before loading the data
+	- Uses the 'BULK INSERT' command to load data from CSV files to Bronze tables.
 
-WARNING:
-	Given that the data is truncated, running this script can erase the data from the table and reload it from the datasource.
-	
+Parameters:
+	None.
+	This stored procedure does not accept any parameters not returns any values
+
+Usage Example:
+	EXEC bronze.load_bronze
 */
 
 CREATE or ALTER PROCEDURE bronze.load_bronze AS
