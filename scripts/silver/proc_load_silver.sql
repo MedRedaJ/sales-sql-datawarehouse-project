@@ -192,9 +192,9 @@ BEGIN
 
 			------------------------------------------------------------------------------------------------
 			SET @start_time = GETDATE();
-			PRINT '>> Truncating Table: bronze.erp_loc_a101';
-			TRUNCATE TABLE bronze.erp_loc_a101
-			PRINT '>> Inserting Data into: bronze.erp_loc_a101';
+			PRINT '>> Truncating Table: silver.erp_loc_a101';
+			TRUNCATE TABLE silver.erp_loc_a101
+			PRINT '>> Inserting Data into: silver.erp_loc_a101';
 			INSERT INTO silver.erp_loc_a101(
 			cid,
 			cntry
