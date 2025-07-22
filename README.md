@@ -1,7 +1,10 @@
-# Data Warehouse and Analysis Project
+# Data Warehouse and Analysis Project (This is a Replication of an SQL Data Warehouse Project by DataWithBaraa)
+
+Message to DataWithBaraa:
+Thank you 🙌 for this comprehensive and informative project, I was able to learn a lot and practise my data engineering skills. This was super helpful in my data learning journey.  
 
 Welcome to my first **Data Warehouse and Analytics Project** !!!
-This project presents a comprehensive data warehousing and analutics solution, from building a data warehouse to generating ationable insights. This Project is part of a Tutorial Series by the youtube channel **Data with Baraa**. If you are cusrious about replicating or working on the same or similar project, feel free to visit the channel at this link: https://www.youtube.com/@DataWithBaraa
+This project presents a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. This Project is part of a Tutorial Series by the YouTube channel **Data with Baraa**. If you are curious about replicating or working on the same or similar project, feel free to visit the channel at this link: https://www.youtube.com/@DataWithBaraa
 
 ---
 ## 🏗️ Data Architecture
