@@ -1,11 +1,9 @@
 # Data Warehouse and Analysis Project (This is a Replication of an SQL Data Warehouse Project by DataWithBaraa)
 
-Message to DataWithBaraa:
-Thank you 🙌 for this comprehensive and informative project, I was able to learn a lot and practise my data engineering skills. This was super helpful in my data learning journey.  
+
 
 Welcome to my first **Data Warehouse and Analytics Project** !!!
-This project presents a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. This Project is part of a Tutorial Series by the YouTube channel **Data with Baraa**. If you are curious about replicating or working on the same or similar project, feel free to visit the channel at this link: https://www.youtube.com/@DataWithBaraa
-
+This project presents a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 ---
 ## 🏗️ Data Architecture
 
@@ -72,7 +70,7 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
+│   ├── etl.drawio                      # Draw.io file shows all different techniques and methods of ETL
 │   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.drawio                # Draw.io file for the data flow diagram
@@ -90,3 +88,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+```
+
+Message to DataWithBaraa:
+Thank you 🙌 for this comprehensive and informative project, I was able to learn a lot and practise my data engineering skills. This was super helpful in my data learning journey.  
